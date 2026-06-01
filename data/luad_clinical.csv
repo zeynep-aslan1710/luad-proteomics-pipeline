@@ -1,0 +1,212 @@
+Patient_ID,Sample.IDs,Sample_Tumor_Normal,Smoking.Status,Stage,Region.of.Origin,Country.of.Origin,Age,Gender,Ethnicity,Height.cm,Weight.kg,BMI,Cigarettes.per.Day,Pack.Years.Smoked,Smoking.History,Secondhand.Smoke
+C3L-00001,C3L.00001,Tumor,non-smoker,2A,western,usa,61.0,female,caucasian,180.3,71.6,22.03,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Yes
+C3L-00009,C3L.00009,Tumor,smoker,1A,western,usa,76.0,male,caucasian,172.0,85.0,28.67,20.0,62.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-00080,C3L.00080,Tumor,smoker,1B,western,other,58.0,male,caucasian,170.0,88.5,30.62,20.0,40.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-00083,C3L.00083,Tumor,,1B,western,usa,71.0,male,caucasian,177.0,92.0,29.37,,,Smoking history not available,Exposure to secondhand smoke history not available
+C3L-00093,C3L.00093,Tumor,non-smoker,1B,western,usa,66.0,female,caucasian,157.0,84.0,34.08,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3L-00094,C3L.00094,Tumor,smoker,1A,western,usa,69.0,male,white,188.0,127.6,36.1,20.0,48.0,Current reformed smoker within past 15 years,Exposure to secondhand smoke history not available
+C3L-00095,C3L.00095,Tumor,smoker,1A,western,usa,62.0,male,caucasian,175.0,106.0,34.61,10.0,25.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-00140,C3L.00140,Tumor,smoker,1A,western,usa,70.0,male,caucasian,180.0,68.0,20.99,1.0,2.5,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-00144,C3L.00144,Tumor,smoker,1B,western,usa,58.0,male,caucasian,165.0,71.0,26.08,20.0,42.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-00263,C3L.00263,Tumor,smoker,2B,western,usa,79.0,male,caucasian,187.96,80.455,22.77,10.0,27.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-00279,C3L.00279,Tumor,smoker,1,western,other,72.0,female,caucasian,165.0,75.0,27.45,,,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3L-00368,C3L.00368,Tumor,smoker,1A,western,usa,67.0,female,caucasian,157.0,72.0,29.21,20.0,25.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3L-00412,C3L.00412,Tumor,smoker,3,western,usa,64.0,male,caucasian,182.88,84.0,25.12,0.0,,Current reformed smoker within past 15 years,Exposure to secondhand smoke history not available
+C3L-00422,C3L.00422,Tumor,non-smoker,2A,western,usa,35.0,female,hispanic,160.02,100.0,39.05,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3L-00510,C3L.00510,Tumor,smoker,1A,western,usa,80.0,female,,165.1,85.455,31.35,4.0,,Current reformed smoker within past 15 years,Exposure to secondhand smoke history not available
+C3L-00604,C3L.00604,Tumor,non-smoker,3A,western,usa,61.0,female,caucasian,170.18,63.0,21.75,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3L-00893,C3L.00893,Tumor,smoker,1B,western,other,71.0,male,hispanic,172.72,86.818,29.1,20.0,40.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3L-00913,C3L.00913,Tumor,smoker,3A,western,usa,66.0,male,caucasian,182.0,56.0,16.91,40.0,100.0,Current reformed smoker within past 15 years,Exposure to secondhand smoke history not available
+C3L-00973,C3L.00973,Tumor,non-smoker,,western,russia,76.0,male,caucasian,,,0.0,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3L-01330,C3L.01330,Tumor,smoker,1A,western,usa,68.0,female,caucasian,167.64,112.727,40.11,4.0,2.0,"Current reformed smoker, more than 15 years",Yes
+C3L-01632,C3L.01632,Tumor,,2A,western,usa,60.0,female,caucasian,177.0,127.4,40.67,,,Smoking history not available,Exposure to secondhand smoke history not available
+C3L-01682,C3L.01682,Tumor,smoker,1B,western,usa,78.0,female,european,163.0,64.0,24.2,10.0,9.0,"Current reformed smoker, more than 15 years",Yes
+C3L-01683,C3L.01683,Tumor,smoker,1B,western,usa,77.0,male,caucasian,183.0,80.0,23.73,15.0,33.8,Current reformed smoker within past 15 years,Yes
+C3L-01862,C3L.01862,Tumor,,3A,western,usa,81.0,male,caucasian,177.0,88.0,28.09,,,Smoking history not available,Exposure to secondhand smoke history not available
+C3L-01889,C3L.01889,Tumor,smoker,1B,western,usa,71.0,female,caucasian,167.0,97.7,35.03,30.0,60.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3L-01890,C3L.01890,Tumor,smoker,1A,western,usa,58.0,female,caucasian,153.0,52.9,22.6,20.0,33.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-01924,C3L.01924,Tumor,smoker,1A,western,usa,68.0,female,caucasian,162.6,83.1,31.43,10.0,25.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-02219,C3L.02219,Tumor,smoker,3A,western,usa,77.0,male,caucasian,170.0,94.0,32.53,20.0,20.0,Current reformed smoker within past 15 years,Exposure to secondhand smoke history not available
+C3L-02345,C3L.02345,Tumor,smoker,1B,western,usa,61.0,female,caucasian,172.0,66.7,22.55,20.0,25.0,Current reformed smoker within past 15 years,Exposure to secondhand smoke history not available
+C3L-02348,C3L.02348,Tumor,smoker,2A,western,usa,58.0,female,caucasian,152.0,63.0,27.27,35.0,71.8,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-02350,C3L.02350,Tumor,smoker,1A,western,usa,69.0,male,caucasian,178.0,91.0,28.69,20.0,12.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3L-02365,C3L.02365,Tumor,smoker,2B,western,usa,62.0,female,european,155.0,53.0,21.92,20.0,47.0,Current reformed smoker within past 15 years,Yes
+C3L-02508,C3L.02508,Tumor,,,western,other,65.0,male,caucasian,170.18,73.63,25.42,,,Smoking history not available,Exposure to secondhand smoke history not available
+C3L-02549,C3L.02549,Tumor,,2B,western,usa,69.0,male,caucasian,180.0,96.0,29.63,,,Smoking history not available,Exposure to secondhand smoke history not available
+C3N-00167,C3N.00167,Tumor,non-smoker,2A,asian,vietnam,64.0,male,asian,168.0,50.0,17.72,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-00169,C3N.00169,Tumor,smoker,1B,asian,vietnam,57.0,male,asian,170.0,66.0,22.84,8.0,12.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00175,C3N.00175,Tumor,smoker,1B,asian,vietnam,72.0,male,asian,171.0,49.0,16.76,7.0,7.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00180,C3N.00180,Tumor,smoker,,asian,vietnam,56.0,male,asian,170.0,50.0,17.3,5.0,7.5,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00199,C3N.00199,Tumor,smoker,1A,western,usa,65.0,male,caucasian,175.0,87.0,28.35,20.0,15.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-00203,C3N.00203,Tumor,smoker,2B,western,bulgaria,72.0,male,,173.0,60.0,20.05,20.0,49.0,Current smoker: Includes daily and non-daily smokers,Yes
+C3N-00217,C3N.00217,Tumor,smoker,1B,western,bulgaria,59.0,female,,165.0,70.0,25.71,20.0,29.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3N-00223,C3N.00223,Tumor,non-smoker,,western,other,69.0,female,asian,150.0,50.0,22.21,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-00293,C3N.00293,Tumor,,1B,western,poland,73.0,male,caucasian,178.0,83.0,26.0,,,Smoking history not available,Exposure to secondhand smoke history not available
+C3N-00294,C3N.00294,Tumor,smoker,2B,western,poland,57.0,male,caucasian,168.0,80.0,28.0,15.0,30.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-00433,C3N.00433,Tumor,non-smoker,1B,western,ukraine,57.0,male,european,169.0,83.0,29.06,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-00546,C3N.00546,Tumor,smoker,2A,asian,vietnam,58.0,male,asian,170.0,52.0,17.99,3.0,3.8,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00547,C3N.00547,Tumor,smoker,2A,asian,vietnam,60.0,male,asian,170.0,51.0,17.65,3.0,3.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00549,C3N.00549,Tumor,smoker,1B,asian,vietnam,58.0,male,asian,168.0,60.0,21.26,5.0,5.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00550,C3N.00550,Tumor,non-smoker,2B,asian,vietnam,52.0,female,asian,173.0,72.0,24.06,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-00551,C3N.00551,Tumor,smoker,,asian,vietnam,54.0,male,asian,170.0,52.0,17.99,5.0,7.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00552,C3N.00552,Tumor,non-smoker,1B,asian,vietnam,49.0,female,asian,156.0,50.0,20.55,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-00556,C3N.00556,Tumor,non-smoker,2B,asian,vietnam,69.0,male,asian,170.0,48.0,16.61,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-00559,C3N.00559,Tumor,non-smoker,1A,asian,vietnam,55.0,female,asian,152.0,48.0,20.78,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-00560,C3N.00560,Tumor,smoker,3A,asian,vietnam,55.0,male,asian,160.0,62.0,24.22,7.0,7.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00572,C3N.00572,Tumor,non-smoker,1A,asian,vietnam,48.0,female,asian,156.0,44.0,18.08,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-00574,C3N.00574,Tumor,non-smoker,1B,asian,vietnam,40.0,male,asian,162.0,57.0,21.72,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-00578,C3N.00578,Tumor,smoker,3A,asian,vietnam,48.0,male,asian,170.0,64.0,22.15,5.0,6.3,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00579,C3N.00579,Tumor,non-smoker,,asian,vietnam,67.0,male,asian,160.0,61.0,23.83,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-00580,C3N.00580,Tumor,smoker,1B,asian,vietnam,56.0,male,asian,168.0,54.0,19.13,5.0,6.3,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00704,C3N.00704,Tumor,smoker,,western,usa,68.0,female,caucasian,147.0,51.1,23.65,20.0,50.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3N-00737,C3N.00737,Tumor,smoker,1A,western,usa,71.0,male,caucasian,170.0,83.0,28.5,20.0,50.0,Current reformed smoker within past 15 years,Exposure to secondhand smoke history not available
+C3N-00738,C3N.00738,Tumor,smoker,,western,other,70.0,female,black,157.0,55.3,22.43,10.0,25.0,Current reformed smoker within past 15 years,Exposure to secondhand smoke history not available
+C3N-00959,C3N.00959,Tumor,smoker,1B,western,usa,66.0,male,caucasian,170.2,73.5,25.37,20.0,19.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-01016,C3N.01016,Tumor,smoker,3A,asian,vietnam,56.0,male,asian,160.0,51.0,19.92,3.0,3.5,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-01021,C3N.01021,Tumor,non-smoker,3A,asian,vietnam,44.0,female,asian,158.0,50.0,20.03,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01023,C3N.01023,Tumor,non-smoker,,asian,vietnam,58.0,male,asian,170.0,48.0,16.61,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01024,C3N.01024,Tumor,non-smoker,,asian,vietnam,66.0,female,asian,160.0,46.0,17.97,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01030,C3N.01030,Tumor,non-smoker,1B,asian,vietnam,56.0,male,asian,168.0,65.0,23.03,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01071,C3N.01071,Tumor,smoker,1B,asian,vietnam,48.0,male,asian,165.0,57.0,20.94,20.0,30.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-01072,C3N.01072,Tumor,non-smoker,3A,asian,vietnam,62.0,male,asian,165.0,55.0,20.2,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01074,C3N.01074,Tumor,non-smoker,1B,asian,vietnam,56.0,male,asian,157.0,62.0,25.15,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01405,C3N.01405,Tumor,non-smoker,1B,asian,vietnam,59.0,male,asian,167.0,50.0,17.93,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01410,C3N.01410,Tumor,non-smoker,,asian,vietnam,64.0,male,asian,160.0,48.0,18.75,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01413,C3N.01413,Tumor,non-smoker,1B,asian,vietnam,62.0,female,asian,153.0,70.0,29.9,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,
+C3N-01414,C3N.01414,Tumor,non-smoker,1B,asian,vietnam,59.0,male,asian,160.0,50.0,19.53,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01415,C3N.01415,Tumor,non-smoker,1B,asian,vietnam,72.0,male,asian,170.0,48.0,16.61,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01416,C3N.01416,Tumor,non-smoker,,asian,vietnam,67.0,female,asian,170.0,48.0,16.61,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01488,C3N.01488,Tumor,smoker,1B,asian,vietnam,54.0,male,asian,170.0,50.0,17.3,5.0,5.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-01489,C3N.01489,Tumor,non-smoker,1B,asian,vietnam,65.0,male,asian,170.0,48.0,16.61,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,
+C3N-01799,C3N.01799,Tumor,smoker,2A,western,usa,81.0,male,caucasian,173.0,82.0,27.37,5.0,0.3,Current reformed smoker within past 15 years,
+C3N-01823,C3N.01823,Tumor,non-smoker,3A,western,ukraine,63.0,male,european,173.0,75.0,25.06,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01842,C3N.01842,Tumor,non-smoker,1A,western,ukraine,69.0,male,european,173.0,95.0,31.74,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-02000,C3N.02000,Tumor,non-smoker,,asian,china,46.0,female,han,162.0,63.0,24.01,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-02002,C3N.02002,Tumor,non-smoker,,asian,china,76.0,male,han,171.0,64.0,21.89,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-02003,C3N.02003,Tumor,smoker,,asian,china,56.0,male,han,161.0,68.0,26.23,40.0,,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-02067,C3N.02067,Tumor,,,asian,china,37.0,female,han,164.0,65.0,24.17,,,Smoking history not available,Exposure to secondhand smoke history not available
+C3N-02087,C3N.02087,Tumor,non-smoker,,asian,vietnam,61.0,female,asian,150.0,50.0,22.22,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,
+C3N-02089,C3N.02089,Tumor,non-smoker,,asian,vietnam,76.0,male,asian,167.0,62.0,22.23,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-02145,C3N.02145,Tumor,non-smoker,,asian,vietnam,68.0,female,asian,153.0,55.0,23.5,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,
+C3N-02149,C3N.02149,Tumor,smoker,2B,asian,vietnam,64.0,male,asian,160.0,50.0,19.53,3.0,3.8,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-02155,C3N.02155,Tumor,smoker,2B,asian,vietnam,45.0,male,asian,165.0,56.0,20.57,5.0,5.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-02158,C3N.02158,Tumor,non-smoker,,asian,vietnam,54.0,female,asian,155.0,56.0,23.31,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,
+C3N-02379,C3N.02379|C3N.02379.1,Tumor,non-smoker,,asian,china,57.0,female,han,168.0,65.0,23.03,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-02380,C3N.02380,Tumor,smoker,,asian,china,56.0,male,han,165.0,81.0,29.75,6.0,8.1,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-02421,C3N.02421,Tumor,smoker,,asian,china,58.0,male,han,168.0,62.0,21.97,40.0,,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-02422,C3N.02422,Tumor,non-smoker,,asian,china,56.0,female,han,161.0,65.0,25.08,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-02423,C3N.02423,Tumor,smoker,,asian,china,70.0,male,han,168.0,79.0,27.99,40.0,100.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-02424,C3N.02424,Tumor,smoker,,asian,china,64.0,male,han,164.0,64.0,23.8,20.0,30.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-02433,C3N.02433,Tumor,non-smoker,,asian,china,68.0,female,han,165.0,74.0,27.18,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-02529,C3N.02529,Tumor,non-smoker,,asian,china,79.0,female,han,156.0,57.0,23.42,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-02572,C3N.02572,Tumor,non-smoker,,asian,china,49.0,male,han,169.0,70.0,24.51,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-02582,C3N.02582,Tumor,smoker,,asian,china,77.0,male,han,177.0,73.0,23.3,20.0,,"Current reformed smoker, years unknown",Exposure to secondhand smoke history not available
+C3N-02586,C3N.02586,Tumor,smoker,,asian,china,73.0,male,han,176.0,74.0,23.89,20.0,41.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-02587,C3N.02587|C3N.02587.1,Tumor,non-smoker,,asian,china,59.0,female,han,151.0,50.0,21.93,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-02588,C3N.02588,Tumor,,,asian,china,69.0,male,han,180.0,80.0,24.69,,,Smoking history not available,Exposure to secondhand smoke history not available
+C3N-02729,C3N.02729,Tumor,non-smoker,,asian,china,45.0,male,han,173.0,60.0,20.05,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+X11LU013,X11LU013,Tumor,non-smoker,3A,asian,vietnam,59.0,male,asian,156.0,52.0,21.37,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+X11LU016,X11LU016,Tumor,non-smoker,3A,asian,vietnam,62.0,male,asian,165.0,51.0,18.73,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+X11LU022,X11LU022,Tumor,non-smoker,1B,asian,vietnam,53.0,male,asian,159.0,55.0,21.76,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+X11LU035,X11LU035,Tumor,smoker,1A,asian,vietnam,59.0,male,asian,168.0,57.0,20.2,5.0,5.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3L-00001.N,C3L.00001.N,Normal,non-smoker,2A,western,usa,61.0,female,caucasian,180.3,71.6,22.03,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Yes
+C3L-00009.N,C3L.00009.N,Normal,smoker,1A,western,usa,76.0,male,caucasian,172.0,85.0,28.67,20.0,62.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-00080.N,C3L.00080.N,Normal,smoker,1B,western,other,58.0,male,caucasian,170.0,88.5,30.62,20.0,40.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-00083.N,C3L.00083.N,Normal,,1B,western,usa,71.0,male,caucasian,177.0,92.0,29.37,,,Smoking history not available,Exposure to secondhand smoke history not available
+C3L-00093.N,C3L.00093.N,Normal,non-smoker,1B,western,usa,66.0,female,caucasian,157.0,84.0,34.08,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3L-00094.N,C3L.00094.N,Normal,smoker,1A,western,usa,69.0,male,white,188.0,127.6,36.1,20.0,48.0,Current reformed smoker within past 15 years,Exposure to secondhand smoke history not available
+C3L-00095.N,C3L.00095.N,Normal,smoker,1A,western,usa,62.0,male,caucasian,175.0,106.0,34.61,10.0,25.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-00140.N,C3L.00140.N,Normal,smoker,1A,western,usa,70.0,male,caucasian,180.0,68.0,20.99,1.0,2.5,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-00144.N,C3L.00144.N,Normal,smoker,1B,western,usa,58.0,male,caucasian,165.0,71.0,26.08,20.0,42.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-00263.N,C3L.00263.N,Normal,smoker,2B,western,usa,79.0,male,caucasian,187.96,80.455,22.77,10.0,27.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-00279.N,C3L.00279.N,Normal,smoker,1,western,other,72.0,female,caucasian,165.0,75.0,27.45,,,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3L-00368.N,C3L.00368.N,Normal,smoker,1A,western,usa,67.0,female,caucasian,157.0,72.0,29.21,20.0,25.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3L-00412.N,C3L.00412.N,Normal,smoker,3,western,usa,64.0,male,caucasian,182.88,84.0,25.12,0.0,,Current reformed smoker within past 15 years,Exposure to secondhand smoke history not available
+C3L-00422.N,C3L.00422.N,Normal,non-smoker,2A,western,usa,35.0,female,hispanic,160.02,100.0,39.05,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3L-00510.N,C3L.00510.N,Normal,smoker,1A,western,usa,80.0,female,,165.1,85.455,31.35,4.0,,Current reformed smoker within past 15 years,Exposure to secondhand smoke history not available
+C3L-00604.N,C3L.00604.N,Normal,non-smoker,3A,western,usa,61.0,female,caucasian,170.18,63.0,21.75,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3L-00893.N,C3L.00893.N,Normal,smoker,1B,western,other,71.0,male,hispanic,172.72,86.818,29.1,20.0,40.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3L-00913.N,C3L.00913.N,Normal,smoker,3A,western,usa,66.0,male,caucasian,182.0,56.0,16.91,40.0,100.0,Current reformed smoker within past 15 years,Exposure to secondhand smoke history not available
+C3L-00973.N,C3L.00973.N,Normal,non-smoker,,western,russia,76.0,male,caucasian,,,0.0,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3L-01330.N,C3L.01330.N,Normal,smoker,1A,western,usa,68.0,female,caucasian,167.64,112.727,40.11,4.0,2.0,"Current reformed smoker, more than 15 years",Yes
+C3L-01632.N,C3L.01632.N,Normal,,2A,western,usa,60.0,female,caucasian,177.0,127.4,40.67,,,Smoking history not available,Exposure to secondhand smoke history not available
+C3L-01682.N,C3L.01682.N,Normal,smoker,1B,western,usa,78.0,female,european,163.0,64.0,24.2,10.0,9.0,"Current reformed smoker, more than 15 years",Yes
+C3L-01683.N,C3L.01683.N,Normal,smoker,1B,western,usa,77.0,male,caucasian,183.0,80.0,23.73,15.0,33.8,Current reformed smoker within past 15 years,Yes
+C3L-01889.N,C3L.01889.N,Normal,smoker,1B,western,usa,71.0,female,caucasian,167.0,97.7,35.03,30.0,60.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3L-01890.N,C3L.01890.N,Normal,smoker,1A,western,usa,58.0,female,caucasian,153.0,52.9,22.6,20.0,33.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-01924.N,C3L.01924.N,Normal,smoker,1A,western,usa,68.0,female,caucasian,162.6,83.1,31.43,10.0,25.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-02219.N,C3L.02219.N,Normal,smoker,3A,western,usa,77.0,male,caucasian,170.0,94.0,32.53,20.0,20.0,Current reformed smoker within past 15 years,Exposure to secondhand smoke history not available
+C3L-02345.N,C3L.02345.N,Normal,smoker,1B,western,usa,61.0,female,caucasian,172.0,66.7,22.55,20.0,25.0,Current reformed smoker within past 15 years,Exposure to secondhand smoke history not available
+C3L-02348.N,C3L.02348.N,Normal,smoker,2A,western,usa,58.0,female,caucasian,152.0,63.0,27.27,35.0,71.8,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3L-02350.N,C3L.02350.N,Normal,smoker,1A,western,usa,69.0,male,caucasian,178.0,91.0,28.69,20.0,12.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3L-02365.N,C3L.02365.N,Normal,smoker,2B,western,usa,62.0,female,european,155.0,53.0,21.92,20.0,47.0,Current reformed smoker within past 15 years,Yes
+C3L-02508.N,C3L.02508.N,Normal,,,western,other,65.0,male,caucasian,170.18,73.63,25.42,,,Smoking history not available,Exposure to secondhand smoke history not available
+C3L-02549.N,C3L.02549.N,Normal,,2B,western,usa,69.0,male,caucasian,180.0,96.0,29.63,,,Smoking history not available,Exposure to secondhand smoke history not available
+C3N-00167.N,C3N.00167.N,Normal,non-smoker,2A,asian,vietnam,64.0,male,asian,168.0,50.0,17.72,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-00169.N,C3N.00169.N,Normal,smoker,1B,asian,vietnam,57.0,male,asian,170.0,66.0,22.84,8.0,12.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00175.N,C3N.00175.N,Normal,smoker,1B,asian,vietnam,72.0,male,asian,171.0,49.0,16.76,7.0,7.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00180.N,C3N.00180.N,Normal,smoker,3A,asian,vietnam,56.0,male,asian,170.0,50.0,17.3,5.0,7.5,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00199.N,C3N.00199.N,Normal,smoker,1A,western,usa,65.0,male,caucasian,175.0,87.0,28.35,20.0,15.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-00203.N,C3N.00203.N,Normal,smoker,2B,western,bulgaria,72.0,male,,173.0,60.0,20.05,20.0,49.0,Current smoker: Includes daily and non-daily smokers,Yes
+C3N-00217.N,C3N.00217.N,Normal,smoker,1B,western,bulgaria,59.0,female,,165.0,70.0,25.71,20.0,29.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3N-00223.N,C3N.00223.N,Normal,non-smoker,,western,other,69.0,female,asian,150.0,50.0,22.21,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-00293.N,C3N.00293.N,Normal,,1B,western,poland,73.0,male,caucasian,178.0,83.0,26.0,,,Smoking history not available,Exposure to secondhand smoke history not available
+C3N-00433.N,C3N.00433.N,Normal,non-smoker,1B,western,ukraine,57.0,male,european,169.0,83.0,29.06,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-00546.N,C3N.00546.N,Normal,smoker,2A,asian,vietnam,58.0,male,asian,170.0,52.0,17.99,3.0,3.8,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00547.N,C3N.00547.N,Normal,smoker,2A,asian,vietnam,60.0,male,asian,170.0,51.0,17.65,3.0,3.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00549.N,C3N.00549.N,Normal,smoker,1B,asian,vietnam,58.0,male,asian,168.0,60.0,21.26,5.0,5.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00550.N,C3N.00550.N,Normal,non-smoker,2B,asian,vietnam,52.0,female,asian,173.0,72.0,24.06,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-00551.N,C3N.00551.N,Normal,smoker,,asian,vietnam,54.0,male,asian,170.0,52.0,17.99,5.0,7.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00552.N,C3N.00552.N,Normal,non-smoker,1B,asian,vietnam,49.0,female,asian,156.0,50.0,20.55,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-00556.N,C3N.00556.N,Normal,non-smoker,2B,asian,vietnam,69.0,male,asian,170.0,48.0,16.61,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-00559.N,C3N.00559.N,Normal,non-smoker,1A,asian,vietnam,55.0,female,asian,152.0,48.0,20.78,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-00560.N,C3N.00560.N,Normal,smoker,3A,asian,vietnam,55.0,male,asian,160.0,62.0,24.22,7.0,7.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00572.N,C3N.00572.N,Normal,non-smoker,1A,asian,vietnam,48.0,female,asian,156.0,44.0,18.08,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-00574.N,C3N.00574.N,Normal,non-smoker,1B,asian,vietnam,40.0,male,asian,162.0,57.0,21.72,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-00578.N,C3N.00578.N,Normal,smoker,3A,asian,vietnam,48.0,male,asian,170.0,64.0,22.15,5.0,6.3,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00579.N,C3N.00579.N,Normal,non-smoker,,asian,vietnam,67.0,male,asian,160.0,61.0,23.83,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-00580.N,C3N.00580.N,Normal,smoker,1B,asian,vietnam,56.0,male,asian,168.0,54.0,19.13,5.0,6.3,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-00704.N,C3N.00704.N,Normal,smoker,,western,usa,68.0,female,caucasian,147.0,51.1,23.65,20.0,50.0,Current smoker: Includes daily and non-daily smokers,Exposure to secondhand smoke history not available
+C3N-00737.N,C3N.00737.N,Normal,smoker,1A,western,usa,71.0,male,caucasian,170.0,83.0,28.5,20.0,50.0,Current reformed smoker within past 15 years,Exposure to secondhand smoke history not available
+C3N-00738.N,C3N.00738.N,Normal,smoker,,western,other,70.0,female,black,157.0,55.3,22.43,10.0,25.0,Current reformed smoker within past 15 years,Exposure to secondhand smoke history not available
+C3N-00959.N,C3N.00959.N,Normal,smoker,1B,western,usa,66.0,male,caucasian,170.2,73.5,25.37,20.0,19.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-01016.N,C3N.01016.N,Normal,smoker,3A,asian,vietnam,56.0,male,asian,160.0,51.0,19.92,3.0,3.5,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-01021.N,C3N.01021.N,Normal,non-smoker,3A,asian,vietnam,44.0,female,asian,158.0,50.0,20.03,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01023.N,C3N.01023.N,Normal,non-smoker,3A,asian,vietnam,58.0,male,asian,170.0,48.0,16.61,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01024.N,C3N.01024.N,Normal,non-smoker,,asian,vietnam,66.0,female,asian,160.0,46.0,17.97,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01030.N,C3N.01030.N,Normal,non-smoker,1B,asian,vietnam,56.0,male,asian,168.0,65.0,23.03,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01071.N,C3N.01071.N,Normal,smoker,1B,asian,vietnam,48.0,male,asian,165.0,57.0,20.94,20.0,30.0,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-01072.N,C3N.01072.N,Normal,non-smoker,3A,asian,vietnam,62.0,male,asian,165.0,55.0,20.2,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01405.N,C3N.01405.N,Normal,non-smoker,1B,asian,vietnam,59.0,male,asian,167.0,50.0,17.93,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01410.N,C3N.01410.N,Normal,non-smoker,,asian,vietnam,64.0,male,asian,160.0,48.0,18.75,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01413.N,C3N.01413.N,Normal,non-smoker,1B,asian,vietnam,62.0,female,asian,153.0,70.0,29.9,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01414.N,C3N.01414.N,Normal,non-smoker,1B,asian,vietnam,59.0,male,asian,160.0,50.0,19.53,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01415.N,C3N.01415.N,Normal,non-smoker,,asian,vietnam,72.0,male,asian,170.0,48.0,16.61,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01416.N,C3N.01416.N,Normal,non-smoker,,asian,vietnam,67.0,female,asian,170.0,48.0,16.61,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-01488.N,C3N.01488.N,Normal,smoker,1B,asian,vietnam,54.0,male,asian,170.0,50.0,17.3,,,Current smoker: Includes daily and non-daily smokers,
+C3N-01489.N,C3N.01489.N,Normal,non-smoker,1B,asian,vietnam,65.0,male,asian,170.0,48.0,16.61,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,
+C3N-01799.N,C3N.01799.N,Normal,smoker,2A,western,usa,81.0,male,caucasian,173.0,82.0,27.37,5.0,5.0,Current reformed smoker within past 15 years,No or minimal exposure to secondhand smoke
+C3N-01823.N,C3N.01823.N,Normal,non-smoker,3A,western,ukraine,63.0,male,european,173.0,75.0,25.06,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,No or minimal exposure to secondhand smoke
+C3N-02000.N,C3N.02000.N,Normal,non-smoker,,asian,china,46.0,female,han,162.0,63.0,24.01,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-02002.N,C3N.02002.N,Normal,non-smoker,,asian,china,76.0,male,han,171.0,64.0,21.89,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-02003.N,C3N.02003.N,Normal,smoker,,asian,china,56.0,male,han,161.0,68.0,26.23,40.0,,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-02067.N,C3N.02067.N,Normal,,,asian,china,37.0,female,han,164.0,65.0,24.17,,,Smoking history not available,Exposure to secondhand smoke history not available
+C3N-02087.N,C3N.02087.N,Normal,non-smoker,,asian,vietnam,61.0,female,asian,150.0,50.0,22.22,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,
+C3N-02089.N,C3N.02089.N,Normal,non-smoker,,asian,vietnam,76.0,male,asian,167.0,62.0,22.23,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,
+C3N-02145.N,C3N.02145.N,Normal,non-smoker,,asian,vietnam,68.0,female,asian,153.0,55.0,23.5,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,
+C3N-02149.N,C3N.02149.N,Normal,smoker,2B,asian,vietnam,64.0,male,asian,160.0,50.0,19.53,3.0,3.8,Current smoker: Includes daily and non-daily smokers,No or minimal exposure to secondhand smoke
+C3N-02155.N,C3N.02155.N,Normal,smoker,2B,asian,vietnam,45.0,male,asian,165.0,56.0,20.57,3.0,3.8,Current smoker: Includes daily and non-daily smokers,
+C3N-02158.N,C3N.02158.N,Normal,non-smoker,,asian,vietnam,54.0,female,asian,155.0,56.0,23.31,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,
+C3N-02379.N,C3N.02379.N,Normal,non-smoker,,asian,china,57.0,female,han,168.0,65.0,23.03,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-02380.N,C3N.02380.N,Normal,smoker,,asian,china,56.0,male,han,165.0,81.0,29.75,6.0,8.1,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-02421.N,C3N.02421.N,Normal,smoker,,asian,china,58.0,male,han,168.0,62.0,21.97,40.0,,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-02423.N,C3N.02423.N,Normal,smoker,,asian,china,70.0,male,han,168.0,79.0,27.99,40.0,100.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-02424.N,C3N.02424.N,Normal,smoker,,asian,china,64.0,male,han,164.0,64.0,23.8,20.0,30.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-02433.N,C3N.02433.N,Normal,non-smoker,,asian,china,68.0,female,han,165.0,74.0,27.18,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-02529.N,C3N.02529.N,Normal,non-smoker,,asian,china,79.0,female,han,156.0,57.0,23.42,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-02572.N,C3N.02572.N,Normal,non-smoker,,asian,china,49.0,male,han,169.0,70.0,24.51,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-02582.N,C3N.02582.N,Normal,smoker,,asian,china,77.0,male,han,177.0,73.0,23.3,20.0,,"Current reformed smoker, years unknown",Exposure to secondhand smoke history not available
+C3N-02586.N,C3N.02586.N,Normal,smoker,,asian,china,73.0,male,han,176.0,74.0,23.89,20.0,41.0,"Current reformed smoker, more than 15 years",Exposure to secondhand smoke history not available
+C3N-02587.N,C3N.02587.N,Normal,non-smoker,,asian,china,59.0,female,han,151.0,50.0,21.93,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
+C3N-02588.N,C3N.02588.N,Normal,,,asian,china,69.0,male,han,180.0,80.0,24.69,,,Smoking history not available,Exposure to secondhand smoke history not available
+C3N-02729.N,C3N.02729.N,Normal,non-smoker,,asian,china,45.0,male,han,173.0,60.0,20.05,,,Lifelong non-smoker: Less than 100 cigarettes smoked in lifetime,Exposure to secondhand smoke history not available
