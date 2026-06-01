@@ -1,10 +1,7 @@
 # LUAD Proteomics Pipeline 
-# LUAD Proteomics Pipeline
+
 
 End-to-end computational proteomics analysis pipeline applied to the CPTAC Lung Adenocarcinoma (LUAD) dataset.
-
-## Overview
-This project was inspired by the research framework of the **Pauling Lab** (Computational Integrative Omics in Biomedicine, Universitätsklinikum Carl Gustav Carus Dresden).
 
 ## Dataset
 - **Source:** CPTAC LUAD (Clinical Proteomic Tumor Analysis Consortium)
